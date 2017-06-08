@@ -1,4 +1,4 @@
-## dummy-pkg-a v1.0.1
+## dummy-pkg-a v1.1.0
 
 A dummy PHP package for testing Dependabot.
 
